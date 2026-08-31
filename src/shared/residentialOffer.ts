@@ -181,7 +181,7 @@ function getInstallationPackage(productName: string): InstallationPackage {
 
   return {
     name: "Háromfázisú töltőtelepítés",
-    price: 219000,
+    price: 199500,
     url: "https://evionor.hu/collections/all/products/three-phase-ev-charger-installation?_pos=2&_fid=45b4bccd7&_ss=c",
   };
 }
